@@ -1,0 +1,1 @@
+Hola, somos League OF UCN, conformado por Maximiliano Olmedo y Benjamin Marinzulich, Este proyecto te guía como jugador de league of legends (LOL) para saber que hace cada jugar, sus diferentes stats y guías respecto a sus roles, Partes de este proyecto esta codeada con Inteligencia Artificial (IA) , Espero les guste nuestra creacion 
